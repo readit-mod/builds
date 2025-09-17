@@ -1,1 +1,1 @@
-Builds for the userscript.
+Builds for the readit userscript.
